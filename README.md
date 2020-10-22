@@ -1,2 +1,2 @@
-# private-repo
-testing APIs for private repo
+# test-repo
+testing different kind of API specifications.
